@@ -1,0 +1,28 @@
+.sponsors{
+
+.rad{
+    color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sponsors-img{
+    .spon-size{
+        height: 100px;
+        width: 100px;
+        
+    }
+    .first-line{
+        display: flex;
+        align-items: center;
+        justify-content: space-around; 
+    }
+    .second-line{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-bottom: 50px; 
+    }
+}
+}

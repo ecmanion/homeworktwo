@@ -1,0 +1,73 @@
+.green{
+ height: 900px;
+    width: 100%;
+    background-color:#445219;
+
+.deer{
+    height: 250px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 40px;
+}
+
+    .pedal{  
+        color:#E04623;
+        display: flex;
+        justify-content: center;
+        
+    }
+    .com{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 71%;
+        padding-top: 60px;
+        font-size: 17px;
+        font-weight: 900;
+        line-height: 170%;
+        padding-bottom: 20px;
+    }
+    .icons{
+        display: inline-flex;
+        align-items: center;
+        justify-content: space-evenly;
+        margin: auto;
+        
+    }
+    .icon{
+        height: 30px;
+        padding-left: 50px;
+    }
+    .iconz{
+        height: 30px;
+        padding-left: 475px;
+    }
+    .start{
+        display: flex;
+        justify-content: space-evenly; 
+        margin-top: 50px;
+        .info{
+            font-size: 12px;
+            align-items: center;
+        }
+        .red{
+            color:#E04623 ;
+        }
+    }
+    a{
+        text-decoration: none;
+    }
+
+}
+
+footer{
+   margin-bottom: 0;
+   padding-bottom: 0;  
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 50px;
+   font-weight: 900;
+}

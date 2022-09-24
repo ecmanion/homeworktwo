@@ -1,0 +1,17 @@
+.explore{
+    .explore-images{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-top:50px;
+        padding-bottom: 50px;
+    }
+    .size{
+        height:290px;
+        width: 290px;
+    }
+    .size:hover{
+        background-color: darkgray;
+    }
+   
+}
